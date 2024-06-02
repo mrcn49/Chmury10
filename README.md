@@ -1,10 +1,10 @@
 # Chmury10
 
 ### Spis treści
-[Stworzenie sieci mostkowej](https://github.com/mrcn49/Chmury10/edit/main/README.md#stworzenie-sieci-mostkowej) <br>
-[Utworzenie katalogów przechowujących logi kontenerów](https://github.com/mrcn49/Chmury10/edit/main/README.md#utworzenie-katalog%C3%B3w-przechowuj%C4%85cych-logi-kontener%C3%B3w) <br>
-[Uruchamianie kontenerów](https://github.com/mrcn49/Chmury10/edit/main/README.md#utworzenie-katalog%C3%B3w-przechowuj%C4%85cych-logi-kontener%C3%B3w)  <br>
-[Sprawdzenie poprawności działania aplikacji](https://github.com/mrcn49/Chmury10/edit/main/README.md#sprawdzenie-poprawno%C5%9Bci-dzia%C5%82ania-aplikacji)
+[Stworzenie sieci mostkowej](https://github.com/mrcn49/Chmury10?tab=readme-ov-file#stworzenie-sieci-mostkowej) <br>
+[Utworzenie katalogów przechowujących logi kontenerów](https://github.com/mrcn49/Chmury10?tab=readme-ov-file#utworzenie-katalog%C3%B3w-przechowuj%C4%85cych-logi-kontener%C3%B3w) <br>
+[Uruchamianie kontenerów](https://github.com/mrcn49/Chmury10?tab=readme-ov-file#uruchamianie-kontener%C3%B3w)  <br>
+[Sprawdzenie poprawności działania aplikacji](https://github.com/mrcn49/Chmury10?tab=readme-ov-file#sprawdzenie-poprawno%C5%9Bci-dzia%C5%82ania-aplikacji)
 
 Plik index.html: [index.html](https://github.com/mrcn49/Chmury10/blob/main/Laboratorium10/index.html)
 
